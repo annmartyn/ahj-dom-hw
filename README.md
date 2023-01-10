@@ -1,4 +1,5 @@
 # ahj-dom
-[![Build status](https://ci.appveyor.com/api/projects/status/ew3av6pfmgr3lh0t?svg=true)](https://ci.appveyor.com/project/annmartyn/ahj-dom)
+![CI](https://github.com/annmartyn/ahj-dom-hw/actions/workflows/web.yml/badge.svg)
+
 
 https://annmartyn.github.io/ahj-dom-hw/
